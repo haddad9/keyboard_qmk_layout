@@ -10,11 +10,11 @@ This is my customize layout design spesicifically for my daily job as a software
 - **Microcontroller**: [ATmega32u4](https://www.microchip.com/en-us/product/atmega32u4#Documentation)
 
 ## Keyboard Layout
-![Layer 0](./layer0 "Layer 0")
+![Layer 0](./layer0.png "Layer 0")
 
-![Layer 1](./layer1 "Layer 1")
+![Layer 1](./layer1.png "Layer 1")
 
-![Layer 2](./layer2 "Layer 2")
+![Layer 2](./layer2.png "Layer 2")
 
 ![Tap Dance 1 ](./tapdance1.png "Tap Dance 1")
 
